@@ -4,7 +4,7 @@ public class Life {
 	private static int MAX = 10; //Tamanho da matriz
 	private int [][] matriz = new int[MAX][MAX];
 	
-	public void inicializa()
+	public void inicializa(int matriz[][])
 	{
 		int i, j;
 		
